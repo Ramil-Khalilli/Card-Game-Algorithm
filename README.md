@@ -1,6 +1,5 @@
 # Card-Game-Algorithm
 Interactive Card Game ("Durak") algorithm using Python IDLE
-Code Explanation:
 ---
 
 # Card Game Simulator
